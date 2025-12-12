@@ -1,0 +1,15 @@
+/workspaces/task2/Myproject2/bin/Debug/net8.0/Myproject2
+/workspaces/task2/Myproject2/bin/Debug/net8.0/Myproject2.deps.json
+/workspaces/task2/Myproject2/bin/Debug/net8.0/Myproject2.runtimeconfig.json
+/workspaces/task2/Myproject2/bin/Debug/net8.0/Myproject2.dll
+/workspaces/task2/Myproject2/bin/Debug/net8.0/Myproject2.pdb
+/workspaces/task2/Myproject2/obj/Debug/net8.0/Myproject2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/task2/Myproject2/obj/Debug/net8.0/Myproject2.AssemblyInfoInputs.cache
+/workspaces/task2/Myproject2/obj/Debug/net8.0/Myproject2.AssemblyInfo.cs
+/workspaces/task2/Myproject2/obj/Debug/net8.0/Myproject2.csproj.CoreCompileInputs.cache
+/workspaces/task2/Myproject2/obj/Debug/net8.0/Myproject2.sourcelink.json
+/workspaces/task2/Myproject2/obj/Debug/net8.0/Myproject2.dll
+/workspaces/task2/Myproject2/obj/Debug/net8.0/refint/Myproject2.dll
+/workspaces/task2/Myproject2/obj/Debug/net8.0/Myproject2.pdb
+/workspaces/task2/Myproject2/obj/Debug/net8.0/Myproject2.genruntimeconfig.cache
+/workspaces/task2/Myproject2/obj/Debug/net8.0/ref/Myproject2.dll
